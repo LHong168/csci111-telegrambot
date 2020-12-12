@@ -1,5 +1,5 @@
 # my telegram movies BOT
 
-*** usage
+*usage
 
-``` this is my telegram bot
+this is my telegram bot
